@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 400px;
+    gap: 7px;
+    margin-left: 350px;
+}
+.btn{
+    background-color: blue;
+    color: white;
+    width: 70px;
+    height: 30px;
+  border-radius: 10px;
+  
+}
+
+.loginbtn{
+    width: 800px;
+  padding: 5px;
+  background-color: blue;
+  color: white;
+  margin-left: 190px;
+  margin-top: 20px;
+  border-radius: 10px;
+    margin-bottom: 40px;
+}
+
